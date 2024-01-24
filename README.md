@@ -19,7 +19,7 @@ So, get ready for an adventure where data, Python, and Power BI team up to tell 
 
 
 <p align="center">
-  <img src= "https://github.com/ThaliaZn/FilesforOtherProjects/blob/10c552ec8626b2c5153e34c5a00590d0d0a7f218/Percentage%20of%20Internet%20Usage%20by%20Country.PNG" alt="Project Logo" width="700"/>
+  <img src= "https://github.com/ThaliaZn/pythonProject/blob/3e998323646773936b7d5b1d46e11b56ed839b69/.idea/Percentage%20of%20Internet%20Usage%20by%20Country.PNG" alt="Project Logo" width="700"/>
 </p>
 
 
