@@ -1,3 +1,9 @@
+""" 
+DEBUGGING SECTION: Replace the last section of the main code "Synthetic Dataset Generator Fintech EU.py" (from line 176) with the following version.
+This will provide insights into how weights (lines 195-225) impact internet usage values.
+Experiment with different weight values and observe their effects on the output in your terminal.
+"""
+
 # Function to generate synthetic dataset
 def generateSyntheticData(numRecords):
     syntheticData = []
