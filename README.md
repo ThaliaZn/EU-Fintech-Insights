@@ -63,16 +63,16 @@ Additionally, you'll find a file containing all Eurostat datasets used, cleaned 
      Cleaned Excel files with real-life data obtained from Eurostat<br><br>
 
 
-- /Data Visualization - Jupyter.ipynb
+- /Dataset Validation and Analysis - Jupyter.ipynb
 
-   This Jupyter notebook includes visualizations of the generated dataset, aiming to verify its alignment with Eurostat values. It utilizes Matplotlib and Seaborn to present:
-   - KDE Plot for Age Distribution
-   - Boxplot for Income Distribution by Country
-   - Line plot for Average Internet Usage for Banking by Age and Education Level
-   - Bar plot to visualize the correlation of 'Internet Usage for Banking (%)' with other variables<br><br>
+   This Jupyter notebook contains visualizations of the synthetic dataset generated using Python, with the aim of validating its consistency with Eurostat data. Utilizing Matplotlib and Seaborn, the notebook presents the following visualizations:
+   - KDE Plot showcasing the distribution of ages within the dataset
+   - Boxplot illustrating the distribution of income by country
+   - Line plot depicting the average internet usage for banking across different age groups and education levels
+   - Bar plot displaying the correlation between 'Internet Usage for Banking (%)' and other relevant variables<br><br>
 
 
-- /Data Visualization - Python.py
+- /Dataset Validation and Analysis - Python.py
 
    The Python script equivalent to the Jupyter notebook, containing the same visualizations using Matplotlib and Seaborn. This format provides flexibility for users who prefer to work with Python scripts.<br><br>
 
@@ -82,7 +82,7 @@ Additionally, you'll find a file containing all Eurostat datasets used, cleaned 
    Replace the last section of the main code with this version to gain valuable insights in your terminal. This allows you to experiment with various weight values and observe how they influence the Internet Usage values in the dataset.<br><br>
 
 
-- /Exploring EU Internet Trends - Power BI Visuals.md
+- /EU Internet Trends - Power BI Visuals.md
 
   Explore the interactive visualizations created using Power BI, based on the datasets collected. The report is designed to showcase insights about internet usage within the EU.
   Navigate through two informative pages, and don't forget to use the arrows at the bottom for seamless exploration. <br><br>
@@ -221,7 +221,7 @@ Average Internet Usage for people over 65: 52.113509192645886
 
 ## _Visualization_
 
-### Data Visualization (Python and Jupyter)
+### Dataset Validation and Analysis (Python and Jupyter)
 A set of visualizations crafted to scrutinize the validity and realism of the synthetic data outputs. These visual insights delve into age distribution, income disparities by country, average internet usage patterns, and the correlation of 'Internet Usage for Banking (%)' with key variables, ensuring the synthetic dataset closely mirrors real-life data dynamics.
  
  <br><br>
@@ -238,7 +238,6 @@ Visualizations showcasing insights, trends, and correlations derived from the da
 
 Eurostat Datasets: Valuable sources of real-life EU demographic and fintech adoption data, pivotal for this analysis.
 
-ChatGPT: Provided assistance and insights throughout the project.
 
 Power BI: Employed for data visualization and analysis, enhancing the project's visual presentation.
 
