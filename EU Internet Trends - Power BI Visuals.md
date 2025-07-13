@@ -2,7 +2,7 @@
 
 Dive into the data-driven exploration of internet trends within the EU with <b>Power BI dashboards featuring 2 informative pages</b>. Click the link below to access the visuals and navigate through the pages using the arrows at the bottom for seamless exploration:
 
-[View Power BI Visualizations]([http://tinyurl.com/ThZPwrBI](https://1drv.ms/u/c/39c6d16cadd6eed7/ES6yL0ZqXztOvRBVLw83E6kBMxs4A6VzKDf0qIzXmCoMtg?e=fNefvu))
+[View Power BI Visualizations]([https://tinyurl.com/27bk6by5])
 <br><br>
 Uncover fascinating insights into internet usage patterns, forecasted trends, and regional variations across the EU. Feel free to navigate through the diverse visualizations to gain a deeper understanding of digital connectivity within the European Union. Happy exploring!
 
